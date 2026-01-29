@@ -1,2 +1,2 @@
 # AI-LAB
-This repository contains all AI lab's contents 
+This repository contains all AI lab's code 
